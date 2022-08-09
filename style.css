@@ -1,0 +1,32 @@
+
+.form{
+    border: 1px solid orange;
+    display: inline-block;
+    margin-top: 89px;
+    margin-left: 512px;
+    padding: 64px 63px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+}
+.login
+{
+    color: rgb(5, 222, 255);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.la{
+    font-size:15px;
+    color: rgb(255, 157, 0);
+}
+.sign{
+    color: white;
+    margin-left: 0px;
+    display: block;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #ff0092;
+    text-align: center;
+    padding: 3px 5px;
+}
